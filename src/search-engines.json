@@ -1,0 +1,42 @@
+{
+    "config": {
+      "openInNewTab": false
+    },
+    "engines": [
+      {
+        "id": "google",
+        "name": "Google",
+        "icon": "google",
+        "baseUrl": "https://www.google.com/search",
+        "queryParam": "q"
+      },
+      {
+        "id": "bing",
+        "name": "Bing",
+        "icon": "bing",
+        "baseUrl": "https://www.bing.com/search",
+        "queryParam": "q"
+      },
+      {
+        "id": "yahoo",
+        "name": "Yahoo!",
+        "icon": "yahoo",
+        "baseUrl": "https://search.yahoo.com/search",
+        "queryParam": "p"
+      },
+      {
+        "id": "duckduckgo",
+        "name": "DuckDuckGo",
+        "icon": "duckduckgo",
+        "baseUrl": "https://duckduckgo.com/",
+        "queryParam": "q"
+      },
+      {
+        "id": "qwant",
+        "name": "Qwant",
+        "icon": "qwant",
+        "baseUrl": "https://www.qwant.com/",
+        "queryParam": "q"
+      }
+    ]
+  }
